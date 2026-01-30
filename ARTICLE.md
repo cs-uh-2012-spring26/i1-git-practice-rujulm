@@ -12,4 +12,5 @@ Article checked for typos.
 ---
 ### Comments:
 I think the point about AI not being able to express its own confidence level is especially important, as is the scale problem with proprietary codebases. That is, the point that AI trained on public GitHub repositories doesn't understand company-specific patterns, helper functions, or architectural decisions that aren't documented in its training data, which can lead to 'hallucinations' that can be dangerous on a production level. This article is a reminder that understanding architecture, trade-offs, and system design will remain valuable even as AI tools get better at generating boilerplate.
+\
 -Isumi Wanniarachchi
