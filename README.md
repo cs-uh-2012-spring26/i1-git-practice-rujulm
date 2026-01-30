@@ -3,5 +3,5 @@
 ## Git Practice
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
-**Name:** Rujul Malhotra 
+**Name:** Rujul Malhotra <br>
 **Merged PR:** https://github.com/cs-uh-2012-spring26/i1-git-practice-isumisw/pull/3
